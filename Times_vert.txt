@@ -1,0 +1,2 @@
+Rank 0, Total Time: 0.318116 
+Rank 1, Total Time: 0.171029

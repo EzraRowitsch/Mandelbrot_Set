@@ -1,0 +1,4 @@
+Rank 0, Total Time: 0.000050 
+Rank 1, Total Time: 0.000138
+Rank 2, Total Time: 0.000117 
+Rank 3, Total Time: 0.000020 
